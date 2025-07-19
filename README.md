@@ -24,6 +24,10 @@ CSS – Styling and responsive layout (Flexbox/Grid)
 JavaScript – Interactivity (menu toggle, animations, form handling)
 
 Screenshot:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/003255ec-4f72-4ae1-9d8a-e74745906f69" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ec59cdf-ce06-4834-ae06-fb4281072e51" />
+
 
 
 
